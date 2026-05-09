@@ -1,5 +1,5 @@
 homepage: "https://nexconform.ca"
 documentation: "https://support.nexconform.ca/gtm"
 versions:
-  - sha: REMPLACER_PAR_LE_SHA_DU_COMMIT_GITHUB
+  - sha: d76b16f3d72db469e0a5296bf73bf0116cea9e0d
     changeNotes: Initial release.
