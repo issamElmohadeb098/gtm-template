@@ -1,13 +1,5 @@
-name: Nexconform CMP
-displayName: Nexconform CMP
-description: >
-  Load the Nexconform Consent Management Platform banner on your website.
-  Helps you comply with Quebec Law 25, GDPR, and other privacy regulations.
-  Automatically initializes Google Consent Mode v2.
-categories:
-  - CONSENT_MANAGEMENT
-  - ANALYTICS
-homepage: https://nexconform.ca
-source: https://github.com/issamElmohadeb098/gtm-template
-documentation: https://support.nexconform.ca/gtm
-version: "1.0.0"
+homepage: "https://nexconform.ca"
+documentation: "https://support.nexconform.ca/gtm"
+versions:
+  - sha: REMPLACER_PAR_LE_SHA_DU_COMMIT_GITHUB
+    changeNotes: Initial release.
