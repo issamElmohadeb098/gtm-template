@@ -2,5 +2,5 @@ homepage: "https://nexconform.ca"
 documentation: "https://support.nexconform.ca/gtm"
 icon: icon.png
 versions:
-  - sha: d76b16f3d72db469e0a5296bf73bf0116cea9e0d
+  - sha: 3c59c79eb159e6a67fad37593817c1876a5d0481
     changeNotes: Initial release.
